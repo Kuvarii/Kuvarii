@@ -1,10 +1,8 @@
--  Why hello there, I am @Wuzzoh (AKA Mr.LayZ), the cause of human suffering.
--  I know* C#, C++, Javascript, and some HTML.
--  Working with me would be a mistake, so I'd advise caution if you decide to take that course of action.
-
-> *in the most basic sense, of course.
+-  Ya-hoo~ I'm Kuvarii, the cause of human suffering~
+-  I know, to an extent, C#, C++, Javascript, and HTML.
+-  Working with me would likely be a mistake, so I'd advise caution if you decide to take that course of action.
 
 <!---
-Wuzzoh/Wuzzoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kuvarii/Kuvarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
