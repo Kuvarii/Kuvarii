@@ -1,5 +1,5 @@
 -  Ya-hoo! I'm Kuvarii, the cause of human suffering~
--  I know, to an extent, C#, C++, Javascript, and HTML.
+-  I know, to an extent, C#, Javascript, and HTML.
 -  Working with me would likely be a mistake, so I'd advise caution if you decide to take that course of action.
 
 <!---
