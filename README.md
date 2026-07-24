@@ -6,7 +6,7 @@
 -  I can not make a website look pretty. (Don't believe me? Check out [raynes-forecast.neocities.org](https://raynes-forecast.neocities.org))
 -  Yes, I use Neocities. Judge me; I dare you.
 -  Working with me would likely be a mistake, so I'd advise caution if you decide to take that course of action.
--  I hate copyright laws, thus everything I* am responsible for is usable for literally anything, as long as you don't claim it to be *entirely* your own work. Though honestly, in the case of code, you can just claim it as your own if it earns you Brownie Points with your manager.
+-  I hate copyright laws, thus everything I* am responsible for is usable for literally anything, as long as you don't claim it to be *entirely* your own work. Though honestly, in the case of any of my code projects or scripts, you can claim it as your own if it earns you Brownie Points with your manager.
 
 > *including my alts
 <!---
