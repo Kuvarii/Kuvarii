@@ -8,7 +8,7 @@
 -  Working with me would likely be a mistake, so I'd advise caution if you decide to take that course of action.
 -  I hate copyright laws, thus everything I* am responsible for is usable for literally anything, as long as you don't claim it to be *entirely* your own work. 
 
--# *including my alts
+> *including my alts
 <!---
 Kuvarii/Kuvarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
